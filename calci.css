@@ -4,7 +4,7 @@
     height: 380px;
     width: 400px;
     margin: auto;
-    background-color: mediumslateblue;
+    background-color: darkorange;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
@@ -21,7 +21,7 @@
 
 input[type=button] {
     font-family: 'Orbitron', sans-serif;
-    background-color:  deepskyblue;
+    background-color:  darkgreen;
     color: white;
     border: solid black 0.5px;
     width: 100%;
